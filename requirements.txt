@@ -1,0 +1,6 @@
+Flask~=3.0.3
+Flask-SQLAlchemy
+Flask-WTF
+Flask-Login
+Werkzeug
+WTForms~=3.2.1
